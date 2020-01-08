@@ -3,6 +3,8 @@ Lab Questions for [2301793-2019 class at Chulalongkorn University](https://class
 
 This repo contains 8 labs for the class in the form of Jupyter notebooks. You can either run in your local machine or in [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true).
 
+To import the code to Google Colab, please follow [this guide](https://course.fast.ai/start_colab.html) (you can skip step 2). Most of the libraries should have already been pre-installed in Colab.
+
 ### Lab 1: Introduction (1 Feb 2020)
 
 Getting started with popular machine learning libraries and concepts. For this course, we'll mainly use [scikit-learn](https://scikit-learn.org/) and [PyTorch](https://pytorch.org/). 
