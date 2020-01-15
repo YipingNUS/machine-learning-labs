@@ -34,3 +34,5 @@ Some of the materials might be taken from other people's code, including but not
 
 * https://github.com/fastai/course-v3
 * https://github.com/Datatouille/rl-workshop
+* https://www.coursera.org/specializations/tensorflow-in-practice
+* https://www.udemy.com/course/deep-learning-tensorflow-2/
