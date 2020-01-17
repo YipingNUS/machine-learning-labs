@@ -11,12 +11,15 @@ Getting started with popular machine learning libraries and concepts. For this c
 
 ### Lab 2: Linear Model (15 Feb 2020)
 
+In this lab, you'll get the flavour of the classification task using a toy dataset from [Tensorflow playground](https://playground.tensorflow.org/). We'll also explore building a simple logistic regression model using [Tensorflow](https://www.tensorflow.org/).
 
 ### Lab 3: Support Vector Machines (22 Feb 2020)
 
+We'll start the lab with a classic donut problem, which is one of the simplest problem that's not linearly separable. This gives us a chance to try out different SVM kernels. After that, we'll tap into the realm of multi-class classification with the popular MNIST digit recognition dataset.
 
 ### Lab 4: Artificial Neural Networks (29 Feb 2020)
 
+We'll start the lab with the *hardest* problem in Tensorflow playground, the spiral. You'll try if you can better result than linear with some kernels we learned last week. Then, you'll proceed with a simple neural nets model. After that, we'll revisit the MNIST dataset and see if we can get any better result using neural nets rather than logistic regression.
 
 ### Lab 5: Tree-based Algorithms (7 Mar 2020)
 
