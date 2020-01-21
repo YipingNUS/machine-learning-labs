@@ -1,4 +1,4 @@
-# machine-learning-labs
+#machine-learning-labs
 Lab Questions for [2301793-2019 class at Chulalongkorn University](https://classroom.google.com/c/NDg2MjYzOTE0OTda) (Special Topics in CS - Modern Machine Learning)
 
 This repo contains 8 labs for the class in the form of Jupyter notebooks. You can either run in your local machine or in [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true).
@@ -15,7 +15,7 @@ In this lab, you'll get the flavour of the classification task using a toy datas
 
 ### Lab 3: Support Vector Machines (22 Feb 2020)
 
-We'll start the lab with a classic donut problem, which is one of the simplest problem that's not linearly separable. This gives us a chance to try out different SVM kernels. After that, we'll tap into the realm of multi-class classification with the popular MNIST digit recognition dataset.
+We'll start the lab with a classic donut problem, which is one of the simplest problem that's not linearly separable. This gives us a chance to try out different SVM kernels. After that, we'll tap into the realm of multi-class classification with a text dataset crawled from Wikipedia.
 
 ### Lab 4: Artificial Neural Networks (29 Feb 2020)
 
