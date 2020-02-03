@@ -19,7 +19,7 @@ We'll start the lab with a classic donut problem, which is one of the simplest p
 
 ### Lab 4: Artificial Neural Networks (29 Feb 2020)
 
-We'll start the lab with the *hardest* problem in Tensorflow playground, the spiral. You'll try if you can better result than linear with some kernels we learned last week. Then, you'll proceed with a simple neural nets model. After that, we'll revisit the MNIST dataset and see if we can get any better result using neural nets rather than logistic regression.
+We'll explore a popular toy dataset Fashion-MNIST, which is a slightly more difficult task than the classic MNIST. You're classify images into ten cloth categories and perform some standard analysis.
 
 ### Lab 5: Tree-based Algorithms (7 Mar 2020)
 
