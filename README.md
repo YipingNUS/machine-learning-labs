@@ -23,13 +23,17 @@ We'll explore a popular toy dataset Fashion-MNIST, which is a slightly more diff
 
 ### Lab 5: Tree-based Algorithms (7 Mar 2020)
 
+In this lab, you'll apply random forest algorithm to classify a real-world housing price dataset. Besides, you'll also use the built-in feature importance method to perform feature selection.
 
 ### Lab 6: Unsupervised Learning (14 Mar 2020)
 
+In this lab, you'll try cluster points using sklearn's k-means algorithm as well as have a chance to implement an online version of the algorithm from scratch.
 
 ### Lab 7: Learning Techniques (21 Mar 2020)
 
 ### Lab 8: Reinforcement Learning (28 Mar 2020)
+
+In this lab, you'll explore various popular multi-armed bandit algorithms for exploration and exploitation.
 
 ### Reference
 
@@ -39,3 +43,4 @@ Some of the materials might be taken from other people's code, including but not
 * https://github.com/Datatouille/rl-workshop
 * https://www.coursera.org/specializations/tensorflow-in-practice
 * https://www.udemy.com/course/deep-learning-tensorflow-2/
+* https://www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python
