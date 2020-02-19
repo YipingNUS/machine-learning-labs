@@ -31,6 +31,8 @@ In this lab, you'll try cluster points using sklearn's k-means algorithm as well
 
 ### Lab 7: Learning Techniques (21 Mar 2020)
 
+In this lab, you will learn how to apply a gradient boosted model on a classic Kaggle competition - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/). You'll use the famous library xgboost for this task.
+
 ### Lab 8: Reinforcement Learning (28 Mar 2020)
 
 In this lab, you'll explore various popular multi-armed bandit algorithms for exploration and exploitation.
